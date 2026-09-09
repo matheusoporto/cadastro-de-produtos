@@ -1,7 +1,3 @@
 Cadastro de Produtos
 
 Projeto de estudo em JavaScript com um estoque completo de produtos desde o cadastro, edição, remoção, pesquisa e filtros até validação total do estoque!
-
-Projeto simples visualmente falando.
-
-O projeto possui cadastro, edição, remoção, filtros e persistência com localStorage.
